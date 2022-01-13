@@ -1,8 +1,8 @@
 {
-    "firstName": "Vadim",
-    "lastName": "Khomich",
+    "first Name": "Vadim",
+    "last Name": "Khomich",
     "patronymic": "Nikolaevich",
     "age": 31,
     "pets": null,
-    "futureSalary": 400
+    "future `Salary": 400
 }
