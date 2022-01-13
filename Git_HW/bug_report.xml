@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <report>
+    <bugId>7</bugId>
+    <title>На странице товара не работает кнопка оставить отзыв</title>
+    <environment>Windows 7 x64 SP1, Google Chrome версия 96.0.4664.110 </environment> 
+    <stepsReproduce>
+             <step1>перейти на страницу любого товара в каталоге</step1>
+             <steps2>нажать кнопку оставить отзыв</steps2>   
+    </stepsReproduce>
+    <expectedResult>открыта форма для написания отзыва</expectedResult>  
+    <actualResult>форма для написания отзыва не открыта</actualResult>
+    <severity>major</severity>         
+  </report>
+
 
