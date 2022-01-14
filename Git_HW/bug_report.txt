@@ -1,1 +1,14 @@
+bugId: 7
 
+title: На странице товара не работает кнопка оставить отзыв
+
+environment: Windows 7 x64 SP1", "Google Chrome версия 96.0.4664.110
+
+steps to reproduce:
+     step 1: перейти на страницу любого товара в каталоге
+     step 2: нажать кнопку оставить отзыв
+     
+expected result: открыта форма для написания отзыва
+actual result: форма для написания отзыва не открыта
+
+severity: major
