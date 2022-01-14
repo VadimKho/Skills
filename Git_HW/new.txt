@@ -1,0 +1,7 @@
+first Name - Vadim
+last Name - Khomich
+patronymic - Nikolaevich
+age - 31
+pets - null
+future Salary - 400
+ 
